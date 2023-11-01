@@ -62,7 +62,8 @@ Ensure the visualizations are understandable to stakeholders with varying levels
 
 Interpret the analysis findings in the context of business objectives.
 Formulate actionable recommendations based on the derived insights.
-Contributing
+
+## Contributing :
 We welcome contributions from the community. If you have suggestions, bug fixes, or new features to add, please open an issue or create a pull request. We appreciate your input and collaboration.
 Please follow the contribution guidelines to contribute to this project.
 
